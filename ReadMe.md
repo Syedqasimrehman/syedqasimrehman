@@ -1,6 +1,19 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+💻 Full-Stack Web Developer passionate about building modern, scalable, and user-friendly web applications.
 
+🚀 I specialize in **React.js, Next.js, Node.js, Express.js, FastAPI, PHP, and Oracle/PostgreSQL/MySQL**.
+
+🎓 Computer Science student and software developer with experience creating real-world projects, including **Bank Management Systems, Courier Management Platforms, University Portals, and Business Websites**.
+
+🌱 Currently learning **System Design, AI Integration, Cloud Deployment, and Advanced Backend Development**.
+
+🤝 Open to collaborating on **Full-Stack, SaaS, AI-powered, and Open Source projects**.
+
+💼 Available for freelance work involving **Frontend Development, Backend APIs, RESTful Services, Database Design, and Full-Stack Applications**.
+
+💬 Ask me about **React, JavaScript, FastAPI, PHP, Node.js, Express.js, Oracle Database, PostgreSQL, REST APIs, Authentication, and Web Development**.
+
+⚡ Fun fact: I enjoy turning complex ideas into clean, responsive, and high-performance web applications while continuously learning new technologies.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/syed.qasim.921677) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_s___q___r_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sqasimr) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/sqasimr/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://web.facebook.com/syed.qasim.921677) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SyedQasimRehma1) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Syedqasimrehman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:SQR563@gmail.com) 
